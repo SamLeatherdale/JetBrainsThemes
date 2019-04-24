@@ -1,16 +1,16 @@
 <scheme name="Monokai Pastel" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-04-25T01:37:23</property>
+    <property name="created">2019-04-25T01:44:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-04-25T01:37:30</property>
+    <property name="modified">2019-04-25T01:44:18</property>
     <property name="originalScheme">Monokai Pastel</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
     <option name="CONSOLE_BACKGROUND_KEY" value="c0c0a" />
-    <option name="GUTTER_BACKGROUND" value="c0c0a" />
+    <option name="GUTTER_BACKGROUND" value="141414" />
     <option name="INDENT_GUIDE" value="464741" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
     <option name="SELECTED_INDENT_GUIDE" value="464741" />
@@ -1551,7 +1551,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
-        <option name="BACKGROUND" value="c0c0a" />
+        <option name="BACKGROUND" value="141414" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
