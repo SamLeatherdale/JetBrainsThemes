@@ -1,10 +1,10 @@
-<scheme name="Monokai Pastel copy" version="142" parent_scheme="Darcula">
+<scheme name="Monokai Pastel" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-04-25T01:18:55</property>
+    <property name="created">2019-04-25T01:27:57</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-04-25T01:19:01</property>
-    <property name="originalScheme">Monokai Pastel copy</property>
+    <property name="modified">2019-04-25T01:28:10</property>
+    <property name="originalScheme">Monokai Pastel</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
@@ -478,6 +478,7 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="f56991" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
