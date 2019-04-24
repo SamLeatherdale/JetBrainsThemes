@@ -1,9 +1,9 @@
 <scheme name="Monokai Pastel" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-04-25T01:27:57</property>
+    <property name="created">2019-04-25T01:37:23</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-04-25T01:28:10</property>
+    <property name="modified">2019-04-25T01:37:30</property>
     <property name="originalScheme">Monokai Pastel</property>
   </metaInfo>
   <colors>
@@ -424,12 +424,20 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="75715e" />
+        <option name="FOREGROUND" value="5c634f" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="75715e" />
+        <option name="FOREGROUND" value="848e71" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="5c634f" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
@@ -996,6 +1004,12 @@
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ffc48c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_TAG">
+      <value>
+        <option name="FOREGROUND" value="c76ff2" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
